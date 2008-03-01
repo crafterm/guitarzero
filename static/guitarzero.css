@@ -1,0 +1,161 @@
+html, body, h1, h2, form, ul, li, p, dl, dt, dd {
+  margin: 0;
+  padding: 0;
+}
+html {
+  background: #111;
+  color: #fff;
+  font-size: 100.01%;
+  text-align: center;
+}
+body {
+  background: url('/static/j_rock_300.png') no-repeat fixed 100% 100%;
+	font: 62.5%/1.2 Garamond, serif; 
+	font-weight: bold;
+}
+
+#page {
+	margin: 0 auto;
+	overflow: hidden;
+	width: 60em;
+}
+
+#content {
+	background: #000;
+	float: left;
+  margin: 0 0 -999em 15em;
+	padding: 0 0 1000em 0;
+  position: relative;
+	text-align: left;
+	width: 40em;
+}
+
+
+a {
+  color: #fff;
+}
+h1 {
+	color: #c20016;
+	font-size: 3em;
+  padding: 0.3em 0.5em;
+	text-align: right;
+}
+
+h1 a {color: #c20016; text-decoration: none;}
+
+p.tagline {
+	color: #c6a143;
+  font-size: 1.6em;
+  padding: 0 0.8em 0.5em;
+	text-align: right;
+  text-transform: uppercase;
+}
+.newScore, form {
+  background: #333;
+ 	float: left;
+  padding: 1.5em 1.5em 0;
+}
+
+#add-score {padding: 0 0 1em;}
+
+ul.party {clear: both; font-size: 1.8em; list-style-type: none; padding: 1em 0 0 5em;}
+
+
+
+.hatom {
+	font-size: 1.8em;
+}
+
+.hatom dl.hentry {
+	font-size: 1.4em;
+	margin: 0 0 0.3em;
+	padding: 0 0 0 6.5em;
+	position: relative;
+}
+	.hatom dt.author {
+  	color: #999;
+		display: inline;	
+		font-size: 0.9em;
+		left: 5em;
+		padding: 0 0.5em 0 0;
+	}
+
+	.hatom dd.timestamp {
+	 	color: #333;
+		display: inline;
+		font-size: 0.7em;
+	 	font-style: italic;
+		font-weight: normal;
+	}
+
+	.hatom dd.entry-content {
+		display: inline;
+		font-weight: bold;
+		left: 0;
+		letter-spacing: 0.05em;
+		padding: 0 0 0 0.4em;
+		position: absolute;
+		top: 0;
+	}
+
+label {
+	display: block;
+	font-size: 1.8em;
+  margin: 0 0 0.4em;
+  width: 20em;
+}
+
+label span {
+	display: block;
+	float: left;
+  margin: 0.1em 0 0;
+  width: 4em;
+}
+
+input {
+  width: 22em;
+}
+input.submit {
+	clear: both;
+	display: block;
+	float: right;
+  margin: 0 0.8em;
+	width: 10em;
+}
+
+.song {
+	border-top: 1px solid #c20016;
+	clear: both;
+	margin: 0 0 1em;
+	position: relative;
+}
+
+.container h2 {
+  font-size: 2em;
+	margin: 0 0 1em;
+}
+
+
+.song h2 {
+	background: #000;
+	border-top: 1px solid #c20016;
+  color: #c6a143;
+	float: left;
+	margin: 0 0 1em;
+  padding: 0 0 0 0.4em;
+	position: relative;
+  left: -6.4em;
+  top: -1px;
+  font-size: 1.4em;
+	text-align: right;
+	width: 6em;
+}
+
+p.error {
+  margin-bottom: 0.5em;
+}
+
+hr {
+	border: none;
+  clear: both;
+}

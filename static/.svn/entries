@@ -1,0 +1,63 @@
+8
+
+dir
+226
+http://10.0.1.234/svn/railscamp-projects/guitarzero/static
+http://10.0.1.234/svn/railscamp-projects
+
+
+
+2007-06-18T00:26:18.675748Z
+226
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d1aaff00-6a9f-43bb-8a99-1c7e9943d6ba
+
+guitarzero.css
+file
+
+
+
+
+2007-06-18T00:27:03.000000Z
+1f598421006bbfc2edbb4e683e61b659
+2007-06-18T00:26:18.675748Z
+226
+
+guitarzero.js
+file
+
+
+
+
+2007-06-18T00:27:03.000000Z
+ba61236790fe6b3a21aaf8c11369ff61
+2007-06-17T14:03:04.578785Z
+207
+
+j_rock_300.png
+file
+
+
+
+
+2007-06-18T00:27:03.000000Z
+549b25e044fa6353386ca6dbc5e154a0
+2007-06-17T15:34:16.698092Z
+216
+
+has-props
+

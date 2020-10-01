@@ -1,5 +1,4 @@
-Guitarzero
-==========
+<h1>Guitarzero</h1>
 
 Guitarzero is a camping application to manage your Guitar Hero high scores,
 written in 24 hours by Marcus Crafter, Lachlan Hardy, and Tim Lucas at
